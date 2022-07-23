@@ -1,0 +1,30 @@
+.sec-image{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    margin-top: 50px;
+}
+.head{
+    margin-top: 40px;
+}
+.head>h1{
+    font-size: larger;
+    font-weight: bolder;
+}
+.header{
+    font-size: larger;
+    font-weight: bolder;
+    width: 70%;
+}
+.third{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    margin-top: 100px;
+}
+.image{
+    width: 60%;
+}
+.third img{
+    width: 80%;
+}

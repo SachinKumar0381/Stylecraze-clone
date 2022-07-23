@@ -1,0 +1,91 @@
+.first-image{
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+.first-image>img{
+   width: 33%;
+}
+
+.trapezoid {
+	border-right: 25px solid transparent;
+	height: 0;
+	width: 225px;
+    padding : 10px;
+    margin-top : -21px;
+}
+.trapezoid>h2{
+text-align : center;
+color : white;
+margin-top: 20px;
+font-size: larger;
+font-weight: bolder;
+}
+.box{
+width : 380px;
+display : flex;
+height : 48px;
+justify-content : space-between;
+background-color: rgb(231, 231, 231);
+
+}
+.box>h2{
+margin-top : 10px;
+margin-right : 30px;
+}
+.facebook{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 100px;
+}
+.fb{
+	border-bottom: 50px solid rgb(73, 73, 119);
+     
+}
+.pint{
+    border-bottom: 50px solid rgb(227, 2, 2);
+}
+.insta{
+    border-bottom: 50px solid rgb(240, 31, 122);
+}
+.fbh{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(73, 73, 119);
+}
+.pinth{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(227, 2, 2);
+}
+.instah{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(240, 31, 122);
+}
+.sec-image{
+    display: flex;
+    width: 95%;
+    margin: auto;
+}
+.head{
+    margin-top: 40px;
+}
+.head>h1{
+    font-size: larger;
+    font-weight: bolder;
+}
+.header{
+    font-size: larger;
+    font-weight: bolder;
+    width: 70%;
+}
+.third{
+    display: flex;
+    width: 95%;
+    margin: auto;
+    margin-top: 100px;
+}
+.image{
+    width: 60%;
+}
