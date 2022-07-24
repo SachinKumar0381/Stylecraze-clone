@@ -552,7 +552,7 @@ const Navbar = () => {
             </div>
          </div>
          </div>
-         <h1>TOOLS</h1>
+         <h1 onClick={()=>{navig('/tools')}}>TOOLS</h1>
          <h1>PRODUCTS</h1>
          <h1>ABOUT US</h1>
         </div>
